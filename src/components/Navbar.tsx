@@ -40,7 +40,7 @@ const Navbar = () => {
             <Link to="/" className="flex items-center justify-center">
               <a href="https://postimages.org/" target="_blank" rel="noreferrer">
                 <img 
-                  src="https://i.postimg.cc/TP7VDzwq/Logo.png" 
+                  src="/images/Logo.png" 
                   alt="Logo"
                   className="h-24 transition-all duration-500"
                 />
