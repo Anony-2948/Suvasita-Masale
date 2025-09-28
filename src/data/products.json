@@ -1,0 +1,77 @@
+[
+  {
+    "id": "1",
+    "name": "Red Chilli Powder",
+    "price": 85.0,
+    "description": "Premium quality red chilli powder with rich color and intense flavor. Carefully ground from the finest dried red chillies, this spice adds vibrant heat and color to your dishes.",
+    "shortDescription": "Rich color and fiery taste",
+    "images": [
+      "/images/product1.png"
+    ],
+    "benefits": [
+      "Adds rich color to food",
+      "Boosts metabolism",
+      "Source of antioxidants",
+      "Enhances taste and spiciness"
+    ],
+    "ingredients": ["100% Pure Red Chilli"]
+  },
+  {
+    "id": "2",
+    "name": "Turmeric Powder",
+    "price": 70.0,
+    "description": "Organically grown turmeric with high curcumin content for vibrant color and numerous health benefits. Known for its earthy aroma and medicinal properties.",
+    "shortDescription": "High-curcumin organic turmeric",
+    "images": [
+      "/images/product2.png"
+    ],
+    "benefits": [
+      "Anti-inflammatory properties",
+      "Boosts immunity",
+      "Rich in antioxidants",
+      "Natural food coloring"
+    ],
+    "ingredients": ["100% Pure Turmeric"]
+  },
+  {
+    "id": "3",
+    "name": "Garam Masala",
+    "price": 95.0,
+    "description": "A traditional blend of aromatic spices for authentic Indian flavor. Garam Masala enhances the taste of curries, rice dishes, and snacks with its warm and balanced spice mix.",
+    "shortDescription": "Traditional aromatic spice blend",
+    "images": [
+      "/images/product3.png"
+    ],
+    "benefits": [
+      "Boosts digestion",
+      "Enhances flavor of dishes",
+      "Rich in antioxidants",
+      "Perfect balance of spices"
+    ],
+    "ingredients": [
+      "Coriander",
+      "Cumin",
+      "Cloves",
+      "Cardamom",
+      "Cinnamon",
+      "Black Pepper"
+    ]
+  },
+  {
+    "id": "4",
+    "name": "Dhana Masala",
+    "price": 90.0,
+    "description": "Authentic Dhana Masala made with ground coriander seeds and select spices. Adds earthy, citrusy notes to curries, pickles, and vegetable dishes.",
+    "shortDescription": "Flavorful coriander-based blend",
+    "images": [
+      "/images/product4.png"
+    ],
+    "benefits": [
+      "Enhances aroma of dishes",
+      "Natural digestive aid",
+      "Mild earthy flavor",
+      "Versatile in cooking"
+    ],
+    "ingredients": ["Coriander Seeds", "Cumin", "Dry Ginger", "Cloves", "Cinnamon"]
+  }
+]
